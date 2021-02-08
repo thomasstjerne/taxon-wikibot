@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "wikibase-edit": "^4.11.8",
+    "wikibase-sdk": "^7.9.0"
+  }
+}
