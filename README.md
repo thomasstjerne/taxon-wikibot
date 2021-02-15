@@ -8,6 +8,6 @@ https://www.wikidata.org/wiki/Q178272
 
 https://www.wikidata.org/wiki/Q2223193
 
-https://www.wikidata.org/Q2335887
+https://www.wikidata.org/wiki/Q2335887
 
-https://www.wikidata.org/Q1951656
+https://www.wikidata.org/wiki/Q1951656
